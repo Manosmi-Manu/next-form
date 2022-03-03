@@ -21,7 +21,7 @@ export default function Home() {
       <div>
         <div className={styles.form_container}>
           <div className={styles.form_heading}>
-            Get the glimpse of Sudarshan Kriya
+            Get the glimpse of Sudarshan Kriya for free
           </div>
 
           <div className={styles.form_start}>
